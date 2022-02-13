@@ -1,5 +1,5 @@
 > ### Hi there 👋
-- Hi 👋, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://miro.medium.com/max/1400/1*Y5S3wOm52_4iYusUagbEtw.jpeg" align="right" width="300" height="200">
+- Hi 👋, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://miro.medium.com/max/1400/1*Y5S3wOm52_4iYusUagbEtw.jpeg" align="right" width="300" height="150">
 - 🔭 I’m currently working on backend application
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate with startups! on Web development!!  
