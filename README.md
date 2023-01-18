@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on backend application
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate with startups! on Web development!!  
-- 📫 How to reach me: <karthikeyansrs98@gmail.com>
+<!-- - 📫 How to reach me: <karthikeyansrs98@gmail.com> -->
 - 😄 Pronouns: coding enthusiast, techie...
 <!--
 **KarthickM98/KarthicKM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
