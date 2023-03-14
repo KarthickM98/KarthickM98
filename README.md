@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> -->
 
-### Github Stats and achievements
+<!-- ### Github Stats and achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=karthickm98)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickm98&layout=compact)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthickm98)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthickm98) -->
