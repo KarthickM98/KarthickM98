@@ -1,5 +1,5 @@
 > ### Hi there 👋
-- Hi 👋, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://crowdbotics.ghost.io/content/images/2021/05/React-Native-Img.png" align="right" width="300" height="150">
+- Hi guys, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://crowdbotics.ghost.io/content/images/2021/05/React-Native-Img.png" align="right" width="300" height="150">
 - 🔭 I’m currently working on react Native application
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate with startups! on Web development!!  
