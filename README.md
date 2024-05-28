@@ -33,7 +33,7 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/karthickm98/" target="_blank"><img align="center" src="https://img.shields.io/badge/Sakshi Gawande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sakshi Gawande LinkedIn Profile" /></a> 
+<a href="https://www.linkedin.com/in/karthickm98/" target="_blank"><img align="center" src="https://img.shields.io/badge/Karthick M?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sakshi Gawande LinkedIn Profile" /></a> 
 <a href="https://lucky-squirrel-35df42.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio Badge" /></a>
 
 </p>
