@@ -28,7 +28,7 @@
 
 - ⚡ fact: turning caffeine into code 
 
-- 📫 How to reach me **sakshigawande40@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
