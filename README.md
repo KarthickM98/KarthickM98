@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with startups! on Web development!!  
 - 😄 Pronouns: coding enthusiast, techie...
 - 😉 I'm practicing full stack!
-
+<!--
 <h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqajEzZ3Rjc2J3OGdyZnRmamlpbWRhaGdxNWJrcW96YmlqMXB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Karthick </h1>
@@ -73,7 +73,7 @@
 |  Contribution Stats  |
 |----------------------|
 | ![](./profile-3d-contrib/profile-night-view.svg) |
-
+--!>
 <!--
 **KarthickM98/KarthicKM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
