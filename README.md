@@ -68,13 +68,12 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthicKM98&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthicKM98&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/KarthicKM98)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickm98&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthickm98&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/karthickm98)|
 
+<!--
 |  Contribution Stats  |
 |----------------------|
-| ![](./profile-3d-contrib/profile-night-view.svg) |
---!>
-<!--
+| ![](./profile-3d-contrib/profile-night-view.svg) | 
 **KarthickM98/KarthicKM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
