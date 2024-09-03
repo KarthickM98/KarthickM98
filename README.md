@@ -1,5 +1,6 @@
 > ### Hi there 👋
-- Hi guys, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://crowdbotics.ghost.io/content/images/2021/05/React-Native-Img.png" align="right" width="300" height="150">
+- Hi guys, I'm karthick `(@KarthickM98)`, **MERN** stack Developer.<img src="https://reactnative.dev/img/header_logo.svg" align="right" >
+
 - 🔭 I’m currently working on react Native application
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate with startups! on Web development!!  
@@ -68,7 +69,8 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickm98&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthickm98&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/karthickm98)|
+
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthickm98&theme=midnight-purple&layout=compact&hide=css,html)] | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthickm98&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/karthickm98)|
 
 <!--
 |  Contribution Stats  |
